@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        setTitle("Si ubises podido trbajar ahi sss");
+        setTitle("JSON parser by Me");
 
         contactList = new ArrayList<>();
         datos = new ArrayList<>();
